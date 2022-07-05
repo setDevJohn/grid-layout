@@ -4,7 +4,7 @@ Uma landing page criada com a utilização de display Flex e Grid.
 
 
 ## 🔗 Acesso ao projeto
-[<img src="src/imagens/projeto-agencia-xyz.gif">](https://jhonyfreitasdev.github.io/projeto-agencia-xyz/)
+[<img src="src/images/projeto-agencia-xyz.gif">](https://jhonyfreitasdev.github.io/projeto-agencia-xyz/)
 
 
 ## 🛠 Skils
