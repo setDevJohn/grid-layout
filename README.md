@@ -4,7 +4,7 @@ Uma landing page criada com a utilização de display Flex e Grid.
 
 
 ## 🔗 Acesso ao projeto
-<a href="https://https://jhonyfreitasdev.github.io/projeto-agencia-xyz/" target="_blank">Clique aqui para ir para a página</a>
+<a href="https://jhonyfreitasdev.github.io/projeto-agencia-xyz/" target="_blank">Clique aqui para ir para a página</a>
 
 [<img src="src/images/projeto-agencia-xyz.gif">](https://jhonyfreitasdev.github.io/projeto-agencia-xyz/)
 
